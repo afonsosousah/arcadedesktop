@@ -1,0 +1,12 @@
+C:\Users\Jogos\source\repos\ArcadeDownloader\ArcadeDownloader\obj\Debug\ArcadeDownloader.csprojAssemblyReference.cache
+C:\Users\Jogos\source\repos\ArcadeDownloader\ArcadeDownloader\obj\Debug\ArcadeDownloader.Properties.Resources.resources
+C:\Users\Jogos\source\repos\ArcadeDownloader\ArcadeDownloader\obj\Debug\ArcadeDownloader.csproj.GenerateResource.cache
+C:\Users\Jogos\source\repos\ArcadeDownloader\ArcadeDownloader\obj\Debug\ArcadeDownloader.csproj.CoreCompileInputs.cache
+C:\Users\Jogos\source\repos\ArcadeDownloader\ArcadeDownloader\bin\Debug\ArcadeDownloader.exe.config
+C:\Users\Jogos\source\repos\ArcadeDownloader\ArcadeDownloader\bin\Debug\ArcadeDownloader.exe
+C:\Users\Jogos\source\repos\ArcadeDownloader\ArcadeDownloader\bin\Debug\ArcadeDownloader.pdb
+C:\Users\Jogos\source\repos\ArcadeDownloader\ArcadeDownloader\bin\Debug\Dropbox.Api.dll
+C:\Users\Jogos\source\repos\ArcadeDownloader\ArcadeDownloader\obj\Debug\ArcadeDownloader.csproj.CopyComplete
+C:\Users\Jogos\source\repos\ArcadeDownloader\ArcadeDownloader\obj\Debug\ArcadeDownloader.exe
+C:\Users\Jogos\source\repos\ArcadeDownloader\ArcadeDownloader\obj\Debug\ArcadeDownloader.pdb
+C:\Users\Jogos\source\repos\ArcadeDownloader\ArcadeDownloader\bin\Debug\Newtonsoft.Json.dll

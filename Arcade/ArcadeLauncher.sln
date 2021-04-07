@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArcadeLauncher", "ArcadeLauncher\ArcadeLauncher.csproj", "{EE48F928-F888-4070-A788-AF6C6468F33A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE48F928-F888-4070-A788-AF6C6468F33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE48F928-F888-4070-A788-AF6C6468F33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE48F928-F888-4070-A788-AF6C6468F33A}.Debug|x64.ActiveCfg = Debug|x64
+		{EE48F928-F888-4070-A788-AF6C6468F33A}.Debug|x64.Build.0 = Debug|x64
+		{EE48F928-F888-4070-A788-AF6C6468F33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE48F928-F888-4070-A788-AF6C6468F33A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE48F928-F888-4070-A788-AF6C6468F33A}.Release|x64.ActiveCfg = Release|x64
+		{EE48F928-F888-4070-A788-AF6C6468F33A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B41081BE-3853-4B58-A88A-142C8A1B409F}
+	EndGlobalSection
+EndGlobal

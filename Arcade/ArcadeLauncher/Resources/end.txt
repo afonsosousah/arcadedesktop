@@ -1,0 +1,24 @@
+			</div>
+			<br>
+		</div>
+	</div>
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/scripts.js"></script>
+	<script> 
+		$(document).ready(function(){
+			document.body.addEventListener('mousedown', evt => {
+				const { target } = evt;
+				const appRegion = getComputedStyle(target)['-webkit-app-region'];
+
+				if (appRegion === 'drag') {
+					chrome.webview.hostObjects.sync.eventForwarder.MouseDownDrag();
+					evt.preventDefault();
+					evt.stopPropagation();
+				}
+			});
+		});
+	</script>
+  </body>
+</html>
